@@ -24,7 +24,7 @@
     border-radius: 30px;
     margin-top: 20px;
     padding: 1ch;
-    background-image: url('../styles/images/latte.jpg') ; 
+    /* background-image: url('../styles/images/latte.jpg') ;  */
     background-repeat: no-repeat;
     background-position:  left;
 }
@@ -48,4 +48,46 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-bottom: 20px;
 
+}
+
+.menu-section{
+
+    border: 2px solid rgb(180, 140, 87);
+    border-radius: 30px;
+    margin: 40px 10px 40px 10px ;
+    padding: 30px;
+    padding-left: 40px ;
+    background-image: url('../styles/images/menu.jpeg');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.menu{
+ 
+    font-size: 50px;
+    text-align: center;
+   
+}
+
+.Upper-part{
+    display: flex;
+    gap: 50px;
+  
+
+}
+
+
+.lower-part{
+    display: flex;
+    gap: 50px;
+}
+
+h4{
+    color: #382718;
+   
+
+}
+
+li{
+    color: #a46c3c;
 }
