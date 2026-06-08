@@ -16,3 +16,36 @@
 
 
 }
+
+.about-us-header{
+
+    color:#a46c3c;
+    border: 2px solid ;
+    border-radius: 30px;
+    margin-top: 20px;
+    padding: 1ch;
+    background-image: url('../styles/images/latte.jpg') ; 
+    background-repeat: no-repeat;
+    background-position:  left;
+}
+
+.about-us{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+   
+    
+}
+
+.about-us-description{
+    
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+   
+    /* display: inline-block; */
+    color: #1a1713;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 20px;
+
+}
