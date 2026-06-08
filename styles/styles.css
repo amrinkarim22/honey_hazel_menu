@@ -1,0 +1,18 @@
+.cafe-name{
+
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    margin : 10px;
+    margin-bottom: 50px;
+    padding: 10px;
+    padding-top: 110px;
+    background-image: url('../styles/images/coffee_background.jpg');
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
